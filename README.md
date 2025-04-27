@@ -2,6 +2,6 @@
 
 Verwalten Sie die Abfrage in einer Liste, die Objekte enthält. Gestalten Sie eine grafische Oberfläche. 
 
-git add README.md ![Screenshot 2025-04-27 132815](https://github.com/user-attachments/assets/39b7670a-61f8-4508-852b-39526876ea46)
+![Screenshot 2025-04-27 132815](https://github.com/user-attachments/assets/39b7670a-61f8-4508-852b-39526876ea46)
 
-git commit -m "README und Screenshot hinzugefügt"
+
