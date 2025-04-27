@@ -5,11 +5,11 @@ from tkinter import messagebox
 
 # Verbindung zur Datenbank herstellen
 conn = mariadb.connect(
-    user="dein_benutzername",
-    password="dein_passwort",
+    user="WIV_Denis",
+    password="denisHDD1996",
     host="localhost",
     port=3306,
-    database="deine_datenbank"
+    database="schlumpfshop3"
 )
 cur = conn.cursor()
 
